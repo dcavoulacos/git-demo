@@ -1,2 +1,2 @@
-puts 'hello' to the world!
-
+name = "Dimitri"
+puts "Hello, " + name + "!"
