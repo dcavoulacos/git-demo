@@ -1,2 +1,2 @@
-name = "Eric"
-puts "Hello, " + name + "!"
+name = "Eric + Dimitri"
+puts "Bonjour, " + name + "!"
