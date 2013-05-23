@@ -1,2 +1,2 @@
-name = "Eric + Dimitri"
+name = "Dimitri et Eric"
 puts "Bonjour, " + name + "!"
