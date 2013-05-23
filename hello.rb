@@ -1,2 +1,2 @@
-says 'hello' to the world!
+puts 'hello' to the world!
 
